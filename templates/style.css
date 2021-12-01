@@ -1,0 +1,21 @@
+h2 {
+    background-color: aqua;
+    color: red;
+    width: 300px;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
+
+h1{
+    background-color: burlywood;
+    color: blue;
+    width: 200px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
